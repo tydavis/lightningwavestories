@@ -4,6 +4,8 @@ I've done a little cleanup on scene separators (originals were a string of "SSSS
 
 Please only contribute typos and other corrections. I do not intend to take the more explicit content from the LiveJournal entries and add it to the book.  I would consider including "Slash warnings" or other explicit content markers, though I would like to see a few proofs of concept before doing so.
 
+Downloads available [in the repository downloads section](https://bitbucket.org/tydavis/lightningwavestories/downloads)
+
 ## Details ##
 Original Author LiveJournal [available here](http://lightningwave.livejournal.com/)
 
