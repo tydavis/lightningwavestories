@@ -6,6 +6,16 @@ Please only contribute typos and other corrections. I do not intend to take the 
 
 Downloads available [in the repository downloads section](https://bitbucket.org/tydavis/lightningwavestories/downloads)
 
+### Reading Order ###
+1. Saving Connor
+2. No Mouth But Some Serpent's
+3. Comes Out of Darkness Morn
+4. Maze of Light (short story)
+5. Freedom And Not Peace
+6. Wind That Shaekes the Seas and Stars
+7. A Song In Time of Revolution
+8. I Am Also Thy Brother
+
 ## Details ##
 Original Author LiveJournal [available here](http://lightningwave.livejournal.com/)
 
