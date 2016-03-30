@@ -12,7 +12,7 @@ Downloads available [in the repository downloads section](https://bitbucket.org/
 3. Comes Out of Darkness Morn
 4. Maze of Light (short story)
 5. Freedom And Not Peace
-6. Wind That Shaekes the Seas and Stars
+6. Wind That Shakes the Seas and Stars
 7. A Song In Time of Revolution
 8. I Am Also Thy Brother
 
