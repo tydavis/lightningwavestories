@@ -4,7 +4,7 @@ I've done a little cleanup on scene separators (originals were a string of "SSSS
 
 Please only contribute typos and other corrections. I do not intend to take the more explicit content from the LiveJournal entries and add it to the book.  I would consider including "Slash warnings" or other explicit content markers, though I would like to see a few proofs of concept before doing so.
 
-Downloads available [in the repository downloads section](https://bitbucket.org/tydavis/lightningwavestories/downloads)
+Downloads available [in the releases section](https://github.com/tydavis/lightningwavestories/releases)
 
 ### Reading Order ###
 1. Saving Connor
@@ -23,7 +23,7 @@ Story content downloaded from [FanFiction.net](https://m.fanfiction.net/u/895946
 
 ## To Contribute ##
 
-If you wish to submit changes, please fork this repository, add your changes to a [pull request](https://confluence.atlassian.com/bitbucket/work-with-pull-requests-223220593.html), and I will review.  Many thanks in advance!
+If you wish to submit changes, please fork this repository, add your changes to a [pull request](https://help.github.com/articles/creating-a-pull-request/), and I will review.  Many thanks in advance!
 
 ## To Build ##
 To build PDFs run the following:
